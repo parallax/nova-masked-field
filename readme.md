@@ -3,16 +3,19 @@
 Parallax Nova Masked Field is a nova plugin that gives you the option of adding in a masked field. It prevents details being shown on the details and index pages and allows you to hide or show masked values in the edit and create pages.
 
 # Usage
-  - Installing is as simple as installing a composer plugin (not on packagist just yet so you'll need to download the project, add into a folder in project root and do the following in your composer.json)
+  - Installing is as simple as installing a composer plugin (not on packagist just yet so you'll need to do things the old faashion way by doing the following in your composer.json)
     ```json
+    "require": {
+        "parallax/masked-field": "*"
+    },
     "repositories": [
         {
             "type": "path",
             "url": "./nova"
         },
         {
-            "type": "path",
-            "url": "./<folder location for MaskedField>"
+            "type": "vcs",
+            "url": "https://github.com/parallax/nova-masked-field/"
         }
     ],
     ```
