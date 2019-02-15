@@ -32,7 +32,7 @@ Parallax Nova Masked Field is a nova plugin that gives you the option of adding 
     ```
 
 ### Issues
-- If you have any issues then please open up a ticket on Github, or find me on twitter @data-runner
+- If you have any issues then please open up a ticket on Github, or find me [on twitter (click here)](https://twitter.com/JaeToole)
 
 
 
