@@ -1,6 +1,6 @@
 {
     "name": "parallax/masked-field",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova field providing a masked value.",
     "keywords": [
         "laravel",
         "nova"
